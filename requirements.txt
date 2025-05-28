@@ -1,0 +1,4 @@
+requests
+pymongo
+transformers
+python-dotenv
